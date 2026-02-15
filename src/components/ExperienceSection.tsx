@@ -5,19 +5,19 @@ const experiences = [
     period: "2024 — 2025",
     title: "Software & 3D Modeling Engineer",
     company: "Geemaps",
-    description: "Developed AR applications, optimized Gaussian splat rendering, built automation workflows, and conducted field laser scanning operations.",
+    description: "Developed AR infrastructure applications using Unity and Three.js for interactive building visualization. Implemented Gaussian splat rendering technology, improving efficiency and reducing file sizes. Processed and classified point cloud data using Python and conducted field laser scanning operations. A fast learner who thrived in a dynamic environment, quickly picking up new technologies and taking ownership of end-to-end project delivery.",
   },
   {
     period: "2022 — 2024",
     title: "Chess Teacher",
     company: "Private",
-    description: "Designed and implemented structured learning programs for students of various skill levels.",
+    description: "Designed and delivered structured learning programs tailored to students of various skill levels, from beginners to competitive players. Passionate about teaching and breaking down complex strategies into approachable lessons. Built strong relationships with students through patience, encouragement, and a genuine love for sharing knowledge.",
   },
   {
     period: "2021 — 2024",
     title: "Math Tutor",
     company: "Zeitlin High-School",
-    description: "Provided specialized mathematics instruction for high school students.",
+    description: "Provided specialized mathematics instruction for high school students, helping them build confidence and achieve academic goals. Known for a patient and adaptive teaching style, taking responsibility for each student's progress and finding creative ways to make challenging concepts click.",
   },
 ];
 

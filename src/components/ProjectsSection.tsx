@@ -1,23 +1,9 @@
 import { motion } from "framer-motion";
-import projectAR from "@/assets/project-ar.jpg";
 import projectBracelet from "@/assets/project-bracelet.jpg";
 import projectMedical from "@/assets/project-medical.jpg";
-import projectPointcloud from "@/assets/project-pointcloud.jpg";
 import projectVision from "@/assets/project-vision.jpg";
 
 const projects = [
-  {
-    title: "AR Building Visualization",
-    description: "Developed AR infrastructure application using Unity for interactive building visualization. Created IFC viewer with JavaScript and Three.js for comprehensive building models.",
-    tags: ["Unity", "Three.js", "JavaScript", "AR"],
-    image: projectAR,
-  },
-  {
-    title: "3D Point Cloud Processing",
-    description: "Implemented Gaussian splat rendering technology, improving efficiency and reducing file sizes. Processed and classified point cloud data using Spatial LM with Python.",
-    tags: ["Python", "Point Cloud", "Gaussian Splatting", "Linux"],
-    image: projectPointcloud,
-  },
   {
     title: "Smart Medical Bracelet",
     description: "Designed wearable device using Arduino to measure vital signs including heart rate, oxygen saturation, and GPS location. Built information system with Python and MySQL.",

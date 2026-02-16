@@ -19,7 +19,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6 }}
         >
           <p className="font-mono text-sm tracking-widest uppercase text-muted-foreground mb-6">
-            Software & 3D Modeling Engineer
+            Medical Engineer · V&V · R&D · QA
           </p>
         </motion.div>
 
@@ -39,8 +39,8 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.3 }}
         >
-          Building at the intersection of software engineering, 3D technologies, and medical systems. 
-          B.Sc in Medical Engineering from Afeka College.
+          Medical Engineer with a B.Sc from Afeka College, passionate about V&V, R&D, and QA in the medical device industry. 
+          Experienced in software development, regulatory processes, and quality assurance.
         </motion.p>
 
         <motion.div

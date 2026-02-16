@@ -12,7 +12,7 @@ const education = [
 const experiences = [
   {
     period: "2024 — 2025",
-    title: "Software & 3D Modeling Engineer",
+    title: "Software Engineer",
     company: "Geemaps",
     description: "Developed AR infrastructure applications using Unity and Three.js for interactive building visualization. Implemented Gaussian splat rendering technology, improving efficiency and reducing file sizes. Processed and classified point cloud data using Python and conducted field laser scanning operations. A fast learner who thrived in a dynamic environment, quickly picking up new technologies and taking ownership of end-to-end project delivery.",
   },

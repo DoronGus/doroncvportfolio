@@ -6,20 +6,20 @@ import projectVision from "@/assets/project-vision.jpg";
 const projects = [
   {
     title: "Smart Medical Bracelet",
-    description: "Designed wearable device using Arduino to measure vital signs including heart rate, oxygen saturation, and GPS location. Built information system with Python and MySQL.",
-    tags: ["Arduino", "Python", "MySQL", "IoT"],
+    description: "Designed and verified a wearable medical device using Arduino to measure vital signs (heart rate, SpO2, GPS). Conducted V&V testing, defined requirements, and built an information system with Python and MySQL following quality-driven development practices.",
+    tags: ["V&V", "Medical Devices", "Python", "MySQL", "IoT"],
     image: projectBracelet,
   },
   {
     title: "Medical Imaging AI",
-    description: "Developed algorithms using classic and AI approaches for skin cancer classification and tumor detection in medical imaging using Python and MATLAB.",
-    tags: ["Python", "MATLAB", "Deep Learning", "Medical Imaging"],
+    description: "R&D project developing and validating algorithms for skin cancer classification and tumor detection in medical imaging. Applied systematic testing and QA methodologies to evaluate model accuracy using Python and MATLAB.",
+    tags: ["R&D", "QA", "Python", "MATLAB", "Medical Imaging"],
     image: projectMedical,
   },
   {
     title: "Computer Vision Sports Tracker",
-    description: "Created computer vision system to track soccer ball bouncing count and detect violations like hand touching and ball falling to the floor.",
-    tags: ["Python", "Computer Vision", "OpenCV"],
+    description: "Developed and validated a computer vision system for real-time sports tracking, including verification of detection accuracy for ball bouncing, hand contact, and floor events.",
+    tags: ["R&D", "V&V", "Python", "Computer Vision", "OpenCV"],
     image: projectVision,
   },
 ];
